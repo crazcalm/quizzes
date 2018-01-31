@@ -1,2 +1,2 @@
-# quizzes
-Place to store term-quiz quizzes
+# Quizzes
+A place to store [Term Quiz](https://github.com/crazcalm/term-quiz) quizzes files.
